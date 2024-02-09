@@ -1,9 +1,13 @@
-# Project_46
+# project46
+
+> Anki Cards for practice
 
 ## Topics:
-1. Blind 75
-2. Data Structures
-3. Algorithms
-4. Coding Patterns
-5. Java
-6. Android
+
+### Android
+
+### Data Structures & Algorithms
+
+### Spring
+
+### Coding Pattern
